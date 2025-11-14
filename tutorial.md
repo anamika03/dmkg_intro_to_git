@@ -206,3 +206,6 @@ git diff 62d0f432 07ebd338
 ```
 
 which compares the last two commits with each other. It will show that the most recent change involved the deletion of `git_commit.png`. Using the above-mentioned commands, it would be possible to restore that file again. [In case you want to read further have a look here the gitlab doc](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git)^[[https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git)].
+
+
+Added new Lines : Here
